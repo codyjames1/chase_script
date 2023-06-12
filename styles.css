@@ -8,3 +8,6 @@ html {
     margin-left: 30rem !important;
 }
 
+.gsheet {
+    display: flex;
+    justify-content:center;
